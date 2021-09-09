@@ -113,7 +113,7 @@ async def status_message_f(
             f'├  📀 Total Used : {used}</b>\n' 
             f'├  💿 Total Free : {free}</b>\n' 
             f'│</b>\n' 
-            f'╰──「 🚸 @PriiiiyoBOTs 🚸 」</b>'
+            f'╰──「 🚸 @TG_TORBOTS 🚸 」</b>'
     )
         if msg == "":
             msg = "🤷‍♂️ No Active, Queued or Paused TORRENTs"
