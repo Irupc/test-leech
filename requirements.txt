@@ -20,4 +20,3 @@ requests
 speedtest-cli
 tgcrypto
 youtube_dl
-© 2021 GitHub, Inc.
